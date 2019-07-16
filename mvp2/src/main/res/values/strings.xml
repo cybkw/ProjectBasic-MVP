@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvp2</string>
+    <string name="loading_str">正在加载...</string>
+</resources>
